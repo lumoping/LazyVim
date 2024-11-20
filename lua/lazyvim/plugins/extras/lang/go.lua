@@ -95,6 +95,7 @@ return {
         nls.builtins.code_actions.impl,
         nls.builtins.formatting.goimports,
         nls.builtins.formatting.gofumpt,
+        nls.builtins.code_actions.json_to_struct,
       })
     end,
   },
